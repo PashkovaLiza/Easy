@@ -1,0 +1,18 @@
+article p::first-line {
+    font-size: 140%;
+    font-weight: bold;
+    color: rgb(220, 20, 150);
+   
+}
+a:link,
+a:visited {
+    color: rebeccapurple;
+    font-weight: bold;
+}
+
+a:hover {
+    color:hotpink;
+}
+body {
+    background-color: rgb(234, 208, 221);
+}
